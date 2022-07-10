@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MeditateIn478/static/css/main.48f96034.css",
+    "main.js": "/MeditateIn478/static/js/main.e691fd6a.js",
+    "static/js/787.3d322423.chunk.js": "/MeditateIn478/static/js/787.3d322423.chunk.js",
+    "index.html": "/MeditateIn478/index.html",
+    "main.48f96034.css.map": "/MeditateIn478/static/css/main.48f96034.css.map",
+    "main.e691fd6a.js.map": "/MeditateIn478/static/js/main.e691fd6a.js.map",
+    "787.3d322423.chunk.js.map": "/MeditateIn478/static/js/787.3d322423.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48f96034.css",
+    "static/js/main.e691fd6a.js"
+  ]
+}
